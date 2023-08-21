@@ -1,0 +1,4 @@
+[submodule "./2-flow-game/"]
+	url = https://github.com/annevogel13/flow-game.git
+[submodule "./3-smartie/"]
+	url = https://github.com/annevogel13/Smartie.git
