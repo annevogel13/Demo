@@ -2,7 +2,7 @@
 
 ## Projects - games  
 
-### 1 - Qwixx
+### 1 - Qwixx (C++)
 
 Unter all den Projekten, an denen ich gearbeitet habe, macht mich dieses Projekt wirklich stolz.
 Mit unserer Gruppe haben wir eine der Game Qwixx entwickelt. Qwixx ist ein rasantes
@@ -20,8 +20,7 @@ Raum für unerwartete Fehler habe muss
 * make qwixx_sdl : Erstellung der Erstellung der grafischen Version (SDL2). Erzeugt eine ausführbare Datei namens **mainSdl**
 * make qwixx_debug : Erstellung einer Debugging-Version. Erzeugt eine ausführbare Datei namens **mainTest**.
 
-make 
-### 2 - Flow-game
+### 2 - Flow-game (Java)
 submodule : [flow-game](https://github.com/annevogel13/flow-game.git)
 
 Während meines Bachelors haben wir beispielsweise das Flow-Spiel in Java entwickelt. Flow ist ein
@@ -31,7 +30,9 @@ Modelle und die Wiederverwendbarkeit der Codierung mit verschiedenen Klassentype
 Während der Entwicklung mussten wir das UML-Diagramm regelmäßig updaten und unsere Codes in
 Gitlab aktiv aktualisieren, damit der Dozent ihn überprüfen konnte.
 
-### 3 - Smartie
+Sie können das Spiel ausführen, indem Sie die Datei **viewControlleurGrill** ausführen.
+
+### 3 - Smartie (Python + VueJS)
 submodule : [smartie](https://github.com/annevogel13/Smartie.git)
 
 #### Projekt - Übersicht
@@ -46,8 +47,23 @@ mit abgeschlossener Ausbildung mit dem richtigen Jobangebot.
 * Exportieren und Importieren von Modellen mit Python
 * Framework: Vue.JS
 
-### 4 - board game generator 
 
+#### Kompilieren 
+* Initialiation : **npm install**
+* Kompilieren und Hot-Reload für die Entwicklung : **npm run dev**
+
+### 4 - board game generator 
+Das Ziel dieses Projekts ist die Entwicklung eines automatischen Roboters für das Spiel Magic Maze. Magic Maze ist ein Brettspiel von Kasper Lapp, bei dem die Spielerinnen Abenteurer durch einen Supermarkt navigieren müssen, um Ziele zu erreichen. Ihr Roboter muss daher in der Lage sein, basierend auf der Spielsituation die besten Züge zu berechnen, die gespielt werden sollen.
+
+#### Kompilieren
+Diese Make-Befehle erstellen eine ausführbare Datei mit demselben Namen: 
+* make test_tuile
+
+* make test_tuileCL
+
+* make test_rotation
+
+* make test_graph
 
 ## Websites 
 Neben programmieren, habe ich verschienende Websites gemacht für Betriebe. Diese sind gemacht mit "low-code" Platforme : 
