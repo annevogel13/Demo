@@ -1,0 +1,10 @@
+*.o
+*.d
+test_chemin
+test_draw
+test_melangeur
+test_pad
+test_paquet
+test_rotation
+test_supermarche
+test_tuile

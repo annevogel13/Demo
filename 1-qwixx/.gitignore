@@ -1,0 +1,5 @@
+#On ignore les fichiers de config vscode
+.vscode
+doc/**
+obj/**
+bin/**
