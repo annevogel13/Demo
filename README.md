@@ -1,5 +1,11 @@
 # Demo Stadler
 
+* [1 - Qwixx (C++)](###-1---Qwixx)
+* [2 - Flow-game (Java)](###-2---Flow-game (Java))
+* [3 - Smartie (Python + VueJS)](###-3---Smartie-(Python-+-VueJS))
+* [4 - Board game generator](###-4---Board-game-generator)
+* [Websites](##-Websites-)
+
 ## Projects - games  
 
 ### 1 - Qwixx (C++)
@@ -52,7 +58,7 @@ mit abgeschlossener Ausbildung mit dem richtigen Jobangebot.
 * Initialiation : **npm install**
 * Kompilieren und Hot-Reload für die Entwicklung : **npm run dev**
 
-### 4 - board game generator 
+### 4 - Board game generator (C++)
 Das Ziel dieses Projekts ist die Entwicklung eines automatischen Roboters für das Spiel Magic Maze. Magic Maze ist ein Brettspiel von Kasper Lapp, bei dem die Spielerinnen Abenteurer durch einen Supermarkt navigieren müssen, um Ziele zu erreichen. Ihr Roboter muss daher in der Lage sein, basierend auf der Spielsituation die besten Züge zu berechnen, die gespielt werden sollen.
 
 #### Kompilieren
