@@ -1,10 +1,10 @@
 # Demo Stadler
 
-* [1 - Qwixx (C++)](###-1---Qwixx)
-* [2 - Flow-game (Java)](###-2---Flow-game (Java))
-* [3 - Smartie (Python + VueJS)](###-3---Smartie-(Python-+-VueJS))
-* [4 - Board game generator](###-4---Board-game-generator)
-* [Websites](##-Websites-)
+* [1 - Qwixx (C++)](https://github.com/annevogel13/demo_stadler#1---qwixx-c)
+* [2 - Flow-game (Java)](https://github.com/annevogel13/demo_stadler#2---flow-game-java)
+* [3 - Smartie (Python + VueJS)](https://github.com/annevogel13/demo_stadler#3---smartie-python--vuejs)
+* [4 - Board game generator](https://github.com/annevogel13/demo_stadler#4---board-game-generator-c)
+* [Websites](https://github.com/annevogel13/demo_stadler#websites)
 
 ## Projects - games  
 
